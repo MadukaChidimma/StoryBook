@@ -1,0 +1,15 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "App to Share Public and write Private stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maduka Chidimma Hephzibah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.5.13"
+  }
+}
