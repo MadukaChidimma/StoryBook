@@ -23,7 +23,7 @@ const UserSchema = new Schema({
         type: String,
         require: true
     },
-    avatar: {
+    image: {
         type: String,
         require: true
     },
